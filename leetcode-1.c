@@ -1,6 +1,6 @@
 // Leetcode assignment #1
 // 35. Search Insert Position
-// Submitted 14 Sep 2022
+// Submitted 17 Sep 2022
 
 int searchInsert(int* nums, int numsSize, int target)
 {
